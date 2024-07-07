@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shankha-1310
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C, Python, Javascript 
+- 🌱 I’m currently learning C, Python, cybersecurity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
