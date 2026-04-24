@@ -92,6 +92,10 @@ everything, and take defense seriously.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shankha-1310&theme=tokyonight&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shankha-1310/Shankha-1310/output/github-snake-dark.svg" />
+</div>
 <!---
 Shankha-1310/Shankha-1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
