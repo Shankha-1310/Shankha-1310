@@ -31,14 +31,20 @@ A foundation for understanding how cryptographic concepts work.
 
 ---
 
-## 🛠️ Skills
+ 🛠️ Skills
 
-**Security:** Threat Detection · Log Analysis · Network Traffic Analysis  
-· Incident Response · MITRE ATT&CK · Phishing Analysis  
-**Tools:** Wireshark · Nmap · SIEM concepts (Splunk/ELK)  
-**Systems:** Linux CLI · Windows Event Viewer · TCP/IP · DNS · Firewalls  
-**Code:** Python · C  
-**Certs:** Google Cybersecurity · Palo Alto Networks · Fortinet NSE · Eduskill
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
