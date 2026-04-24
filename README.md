@@ -80,6 +80,18 @@ everything, and take defense seriously.
 
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shankha-1310&color=00b4d8&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shankha-1310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shankha-1310&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shankha-1310&theme=tokyonight&hide_border=true" />
+</div>
 <!---
 Shankha-1310/Shankha-1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
