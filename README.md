@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shankha+Das+%F0%9F%91%8B;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%7C+Network+Defense;CSE+Graduate+2026" alt="Typing SVG" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
 I'm a Computer Science & Engineering graduate (2026) from Bankura, 
 West Bengal, building a career in Blue Team cybersecurity. I'm 
 focused on threat detection, log analysis, and network defense — 
@@ -10,26 +10,20 @@ the kind of work that actually keeps systems safe.
 I don't just study security. I build tools, analyze traffic, and 
 document what I find.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
 
 ## 🔧 Projects
 
-### 🕵️ Python Packet Sniffer
-Captures and analyzes live network traffic at the packet level.
-Built to understand how data moves — and how attackers move with it.
-`Python` `Scapy` `Network Analysis`
+<div align="center">
+  <a href="https://github.com/Shankha-1310/packet-sniffer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha-1310&repo=Cybersecurity_Projects&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Shankha-1310/port-scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shankha-1310&repo=Cybersecurity_Projects&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-### 🔍 Python Port Scanner
-Identifies open ports and running services on a target host.
-Useful for network reconnaissance and attack surface mapping.
-`Python` `Socket Programming` `Network Security`
-
-### 🔐 Caesar Cipher Tool
-Implements classical substitution encryption and decryption.
-A foundation for understanding how cryptographic concepts work.
-`Python` `Cryptography Basics`
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
 
  🛠️ Skills
 
@@ -46,7 +40,7 @@ A foundation for understanding how cryptographic concepts work.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
 
 ## 🚧 Currently Working On
 
@@ -56,7 +50,8 @@ A foundation for understanding how cryptographic concepts work.
 - Expanding packet sniffer to flag suspicious traffic patterns 
   automatically
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
+
 Certifications
 <div align="center">
 
@@ -66,6 +61,8 @@ Certifications
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
+
 ## 🎯 What I'm Looking For
 
 SOC Analyst L1 · Cybersecurity Analyst · IT Security · Blue Team roles
@@ -73,12 +70,15 @@ SOC Analyst L1 · Cybersecurity Analyst · IT Security · Blue Team roles
 Open to opportunities across India. I learn fast, document 
 everything, and take defense seriously.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shankha%20Das-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shankha-das)  
-📧 shankha1310bandwan@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shankha-das)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankha1310bandwan@gmail.com)
+
+</div>
 
 <!---
 Shankha-1310/Shankha-1310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
