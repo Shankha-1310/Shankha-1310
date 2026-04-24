@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shankha+Das+%F0%9F%91%8B;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%7C+Network+Defense;CSE+Graduate+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shankha+Das;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%7C+Network+Defense;CSE+Graduate+2026" alt="Typing SVG" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif">
 I'm a Computer Science & Engineering graduate (2026) from Bankura, 
