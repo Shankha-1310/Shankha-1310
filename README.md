@@ -57,6 +57,14 @@ A foundation for understanding how cryptographic concepts work.
   automatically
 
 ---
+Certifications
+<div align="center">
+
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet_NSE-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+
+</div>
 
 ## 🎯 What I'm Looking For
 
