@@ -1,4 +1,6 @@
-# Hi, I'm Shankha Das 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shankha+Das+%F0%9F%91%8B;Blue+Team+%7C+SOC+Analyst;Threat+Detection+%7C+Network+Defense;CSE+Graduate+2026" alt="Typing SVG" />
+</div>
 
 I'm a Computer Science & Engineering graduate (2026) from Bankura, 
 West Bengal, building a career in Blue Team cybersecurity. I'm 
