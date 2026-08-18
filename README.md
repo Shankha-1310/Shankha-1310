@@ -56,6 +56,4 @@ Open to opportunities across India. I learn fast, document everything, and take 
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shankha-1310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shankha-1310&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shankha-1310&theme=tokyonight&hide_border=true)
-
 [![Snake animation](https://raw.githubusercontent.com/Shankha-1310/Shankha-1310/output/github-snake-dark.svg)](https://raw.githubusercontent.com/Shankha-1310/Shankha-1310/output/github-snake-dark.svg)
